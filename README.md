@@ -21,7 +21,7 @@ A Python-based Sudoku solver and generator using `tkinter`. This project allows 
 
 ## Screenshots
 
-![Sudoku Solver]()
+![Sudoku Solver](https://github.com/KashaveniSruthi/sudoku-solver/blob/12419fc8e5d114fc2e512126c6b2e1140819d709/sudoku-solver.png)
 
 
 

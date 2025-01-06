@@ -19,6 +19,10 @@ A Python-based Sudoku solver and generator using `tkinter`. This project allows 
 - **Customizable Interface**:
   - Buttons for generating a new puzzle, solving the current puzzle, and selecting difficulty levels.
 
+## Screenshots
+
+![Sudoku Solver]()
+
 
 
 ## Installation
